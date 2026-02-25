@@ -5,7 +5,7 @@ A full-stack ecommerce web application built using React, Express, and Sequelize
 ## 🚀 Live Demo
 
 🌐 Frontend (Vercel):  
-https://ecommerce-project-amazon-d5wvlj8h1-karthiks-projects-fa874fb0.vercel.app/
+https://ecommerce-project-amazon-nstpc3gn1-karthiks-projects-fa874fb0.vercel.app/
 
 🔗 Backend (Render API):  
 https://ecommerce-backend-x2gf.onrender.com/api/products
