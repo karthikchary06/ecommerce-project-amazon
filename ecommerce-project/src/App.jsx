@@ -6,6 +6,7 @@ import { useState, useEffect } from 'react'
 import HomePage from './pages/home/HomePage'
 import CheckoutPage from './pages/checkout/CheckoutPage'
 import OrdersPage from './pages/orders/OrdersPage'
+axios.defaults.baseURL = "https://ecommerce-backend-x2gf.onrender.com";
 
 
 function App() {
